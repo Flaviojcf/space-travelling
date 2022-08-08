@@ -1,4 +1,4 @@
-# IgNews
+# SpaceTravelling
 
 <p align="center">
   <img src="/public/SpaceTravelling.png" alt="SpaceTravelling">
