@@ -1,7 +1,7 @@
 # IgNews
 
 <p align="center">
-  <img src="/public/images/SpaceTravelling.png" alt="SpaceTravelling">
+  <img src="/public/SpaceTravelling.png" alt="SpaceTravelling">
 </p>
 
 ## Tópicos 
